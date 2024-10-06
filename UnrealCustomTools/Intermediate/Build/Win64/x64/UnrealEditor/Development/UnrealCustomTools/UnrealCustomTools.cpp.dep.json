@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\github projects\\ue-customtools\\unrealcustomtools\\source\\unrealcustomtools\\unrealcustomtools.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\github projects\\ue-customtools\\unrealcustomtools\\intermediate\\build\\win64\\x64\\unrealcustomtoolseditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\github projects\\ue-customtools\\unrealcustomtools\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealcustomtools\\definitions.unrealcustomtools.h",
+            "d:\\github projects\\ue-customtools\\unrealcustomtools\\source\\unrealcustomtools\\unrealcustomtools.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

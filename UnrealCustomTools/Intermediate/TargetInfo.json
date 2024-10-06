@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UnrealCustomTools",
+			"Path": "..\\Source\\UnrealCustomTools.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UnrealCustomToolsEditor",
+			"Path": "..\\Source\\UnrealCustomToolsEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
