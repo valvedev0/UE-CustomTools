@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"D:\\Github Projects\\UE-CustomTools\\UnrealCustomTools\\Source\\UnrealCustomTools\\UnrealCustomTools.Build.cs",
-		"D:\\Github Projects\\UE-CustomTools\\UnrealCustomTools\\Source\\UnrealCustomTools.Target.cs",
-		"D:\\Github Projects\\UE-CustomTools\\UnrealCustomTools\\Source\\UnrealCustomToolsEditor.Target.cs"
-	],
-	"EngineVersion": "5.3.2"
-}
